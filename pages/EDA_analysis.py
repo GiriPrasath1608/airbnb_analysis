@@ -52,7 +52,7 @@ with st.container(border=True):
 
 st.subheader('Heat map of occupancy rate')
 with st.container(border=True):
-    fig5 = univarinat_function.availability_heatmap(merged_df,country_list)
+    fig5 = univarinat_function.availability_heatmap(merged_df)
     st.plotly_chart(fig5)
 
 st.subheader('occupancy rate relation with property type')

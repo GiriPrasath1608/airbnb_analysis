@@ -36,6 +36,3 @@ with st.container(border = True):
 
 st.subheader(f'Top 10 listed property by {sort_selected} and Ascending is {asc_selected}')
 function.property_listing(total_df,listing_df,sort_selected,asc_selected)
-
-
-

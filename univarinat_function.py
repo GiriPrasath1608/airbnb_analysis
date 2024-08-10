@@ -118,7 +118,15 @@ def price_property_location(merged_df):
 
 #09/08/24
 #heat map
-def availability_heatmap(merged_df,country):
+def availability_heatmap(merged_df):
+    country = ['United States',
+            'China',
+            'Australia',
+            'Portugal',
+            'Brazil',
+            'Canada',
+            'Turkey',
+            'Spain']
     heat_maps = merged_df[['availability_30','availability_60','availability_90','availability_365','country']]
     data = []
     for i in country:
