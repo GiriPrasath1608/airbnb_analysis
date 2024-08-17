@@ -22,6 +22,34 @@ This project aims to analyze Airbnb data using MongoDB Atlas, perform data clean
 7. Create interactive visualizations that enable users to filter and drill down into the data.
 8. Build a comprehensive dashboard using Tableau or Power BI, combining various visualizations to present key insights from the analysis.
 
+{"_id": "unique_listing_id",
+ "name": "listing_title",
+ "description": "listing_description",
+ "host_id": "unique_host_id",
+ "host_name": "host_name",
+ "neighbourhood": "neighbourhood_name",
+ "location": {
+          "type": "Point",
+   			  "coordinates": ['longitude', 'latitude']
+ 			 },
+"price": "listing_price",
+"availability": {
+   			 "start_date": "YYYY-MM-DD",
+   			 "end_date": "YYYY-MM-DD"
+  },
+"amenities": ["amenity_1", "amenity_2", ...],
+"rating": "average_rating",
+"reviews": [
+        		{
+     			 "reviewer_id": "unique_reviewer_id",
+      			"reviewer_name": "reviewer_name",
+      			"comment": "review_comment",
+     			 "rating": "review_rating"
+   			 }, ...
+ 			 ], ...
+}
+
+
 **Approach:**
   1. MongoDB Connection and Data Retrieval: Establish a connection to the MongoDB Atlas database and retrieve the Airbnb dataset. Perform queries and data retrieval operations to extract the necessary information for your analysis.
   2. Data Cleaning and Preparation: Clean the Airbnb dataset by handling missing values, removing duplicates, and transforming data types as necessary. Prepare the dataset for EDA and visualization tasks, ensuring data integrity and consistency.
