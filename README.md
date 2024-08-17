@@ -34,13 +34,13 @@ This project aims to analyze Airbnb data using MongoDB Atlas, perform data clean
 
 
 **The learning outcomes of this project are:**
-1.MongoDB Atlas: Gain proficiency in working with MongoDB Atlas to store and retrieve the Airbnb dataset, developing skills in data management with a NoSQL database technology.
-2.Streamlit Web Application: Build a user-friendly web application using Streamlit, enhancing skills in web application development for interactive data exploration and visualization.
-3.Python Data Analysis: Utilize Python for data cleaning, analysis, and visualization tasks, developing expertise in Python libraries such as Pandas and NumPy for data manipulation.
-4.Geospatial Analysis: Leverage geospatial libraries like GeoPandas or Folium for geospatial data processing and visualization, gaining knowledge and skills in analyzing and visualizing spatial patterns.
-5.Tableau or Power BI: Create interactive dashboards using tools like Tableau or Power BI, refining skills in data visualization and dashboard creation for comprehensive data presentation.
-6.Data Cleaning and Preparation: Develop proficiency in cleaning and preparing the Airbnb dataset, including handling missing values, duplicates, and data type conversions, ensuring data quality and consistency.
-7.Data Visualization Techniques: Master data visualization techniques to effectively communicate insights, developing skills in creating visually appealing and informative charts, maps, and plots.
-8.Problem-Solving Skills: Apply analytical skills to analyze pricing dynamics, availability patterns, and other factors, developing problem-solving abilities in extracting valuable insights from data.
-9.Data-Driven Decision Making: Enhance decision-making skills by enabling stakeholders to make informed choices based on the insights and visualizations provided by the project.
-10.Collaboration and Project Management: Strengthen collaboration and project management skills through the end-to-end development of the project, including task planning, coordination, and timely delivery of project milestones.
+  1. MongoDB Atlas: Gain proficiency in working with MongoDB Atlas to store and retrieve the Airbnb dataset, developing skills in data management with a NoSQL database technology.
+  2. Streamlit Web Application: Build a user-friendly web application using Streamlit, enhancing skills in web application development for interactive data exploration and visualization.
+  3. Python Data Analysis: Utilize Python for data cleaning, analysis, and visualization tasks, developing expertise in Python libraries such as Pandas and NumPy for data manipulation.
+  4. Geospatial Analysis: Leverage geospatial libraries like GeoPandas or Folium for geospatial data processing and visualization, gaining knowledge and skills in analyzing and visualizing spatial patterns.
+  5. Tableau or Power BI: Create interactive dashboards using tools like Tableau or Power BI, refining skills in data visualization and dashboard creation for comprehensive data presentation.
+  6. Data Cleaning and Preparation: Develop proficiency in cleaning and preparing the Airbnb dataset, including handling missing values, duplicates, and data type conversions, ensuring data quality and consistency.
+  7. Data Visualization Techniques: Master data visualization techniques to effectively communicate insights, developing skills in creating visually appealing and informative charts, maps, and plots.
+  8. Problem-Solving Skills: Apply analytical skills to analyze pricing dynamics, availability patterns, and other factors, developing problem-solving abilities in extracting valuable insights from data.
+  9. Data-Driven Decision Making: Enhance decision-making skills by enabling stakeholders to make informed choices based on the insights and visualizations provided by the project.
+  10. Collaboration and Project Management: Strengthen collaboration and project management skills through the end-to-end development of the project, including task planning, coordination, and timely delivery of project milestones.
