@@ -1,7 +1,7 @@
 # airbnb_analysis
 
 https://airbnbanalysis.streamlit.app 
-click the above link hosted in streamlit community cloud
+click the link app is hosted in streamlit community cloud
 
 **Project Title:** Airbnb Analysis
 
